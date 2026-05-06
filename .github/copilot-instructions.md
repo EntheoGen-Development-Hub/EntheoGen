@@ -2,6 +2,26 @@
 
 Use this repository as the operating source for EntheoGen changes.
 
+## Design system
+
+When editing GitHub-facing pages, docs, templates, or public web surfaces,
+preserve the EntheoGen design language from `src/index.css`, `src/App.tsx`,
+and `public/public.html`.
+
+EntheoGen should feel **calm, luminous, evidence-grounded, and harm-reduction
+oriented**. The visual foundation is deep forest/obsidian (`#050D08`), with
+glassy panels (`rgba(20,30,24,0.4)`), subtle emerald (`#73f0b1`), cyan
+(`#96f4ff`), and amber (`#ffd582`) accents, careful spacing, and precise
+educational language.
+
+Do not make it look like a generic SaaS landing page, psychedelic poster,
+wellness brand, or clinical hospital dashboard. Avoid overclaiming medical
+authority. Keep copy educational and safety-aware.
+
+For GitHub Markdown surfaces, approximate the brand through structure, wording,
+badges, tables, callouts, diagrams, and linked visual assets rather than
+unsupported custom CSS.
+
 ## Scope
 
 - App UI and adapters live under `src/`, especially `src/data/uiInteractions.ts`.

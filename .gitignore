@@ -27,6 +27,11 @@ exports/supabase_*/*.csv
 scripts/automation/generated/*
 !scripts/automation/generated/.gitkeep
 
+# Metabase secret keys (never commit these)
+METABASE_SECRET_KEY
+metabase-secret-key*
+.metabase-secret*
+
 # Local Slack capture artifacts (keep records off git)
 scripts/slack/*.local.json
 scripts/slack/*.local.jsonl

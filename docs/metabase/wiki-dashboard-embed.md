@@ -116,4 +116,15 @@ When running the dataset-beta Docker Compose stack locally:
 - The secret key and dashboard IDs are environment-specific — do not commit
   them. Use `.env` (gitignored) or Doppler secrets.
 
+**Public dashboard URL (local dev):**
+
+```
+http://localhost:54321/public/dashboard/2ed79af6-fcf8-4ff4-856f-4729d8b5ea5c
+```
+
+This is the no-auth public sharing link for the local Metabase instance. It can
+be used for quick access during local development without requiring a signed
+token. Do not treat this URL as a production-safe embed — it is local-only and
+will not resolve outside the running Docker Compose stack.
+
 See `docs/private-student-beta/README.md` for the full local stack setup.

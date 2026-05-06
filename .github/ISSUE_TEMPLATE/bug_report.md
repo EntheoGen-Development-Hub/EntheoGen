@@ -1,38 +1,30 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Report unexpected behavior in the interaction guide or data layer
+title: 'bug: '
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Summary**
+A clear, concise description of what is broken and where.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to reproduce**
+1. Navigate to …
+2. Select substance pair …
+3. Observe …
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+What the interaction guide or readout should show.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Actual behavior**
+What is shown instead (paste text or attach a screenshot).
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Environment**
+- Browser & version:
+- OS:
+- App URL (Azure / newpsychonaut.com / local dev):
 
 **Additional context**
-Add any other context about the problem here.
+Dataset version, relevant substance IDs, or any other detail that helps narrow down the issue.

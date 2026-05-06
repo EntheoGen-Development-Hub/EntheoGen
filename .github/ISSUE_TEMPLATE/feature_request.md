@@ -1,20 +1,25 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature or dataset request
+about: Suggest a new interaction pair, substance, UI improvement, or data-layer capability
+title: 'feat: '
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What problem does this address?**
+Describe the harm-reduction, safety, or usability gap you are trying to close.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Proposed change**
+A precise description of what you would like added or changed.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Substance pair / dataset context** *(if applicable)*
+- Substance A:
+- Substance B:
+- Relevant mechanism, source, or reference:
+
+**Alternatives considered**
+Any other approaches you evaluated.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Screenshots, references, PsychonautWiki / TripSit links, or any supporting evidence.

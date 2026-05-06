@@ -1,4 +1,4 @@
-# <change title>
+# <change title — e.g. "feat: add MDMA × SSRIs interaction" or "fix: classification confidence for psilocybin pairs">
 
 Template note: this template is reviewer guidance only. Missing fields must not
 block PR creation, CI, review, or merge.
